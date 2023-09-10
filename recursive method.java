@@ -1,5 +1,5 @@
-In this code, the fibonacciRecursive method calculates the nth Fibonacci number using recursion. You can change the value of n in the main method to calculate the Fibonacci number for a specific value of 'n'. Simply replace int n = 10; with the desired value of 'n'
-Code : 
+//In this code, the fibonacciRecursive method calculates the nth Fibonacci number using recursion. You can change the value of n in the main method to calculate the Fibonacci number for a specific value of 'n'. Simply replace int n = 10; with the desired value of 'n'
+Code : //
 public class FibonacciRecursive {
 
     public static int fibonacciRecursive(int n) {
